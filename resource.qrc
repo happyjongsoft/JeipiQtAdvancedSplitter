@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icon_horizontal_merge.png</file>
+        <file>res/icon_split.png</file>
+        <file>res/icon_vertical_merge.png</file>
+        <file>res/icon_horizontal_merge_hover.png</file>
+        <file>res/icon_split_hover.png</file>
+        <file>res/icon_vertical_merge_hover.png</file>
+    </qresource>
+</RCC>
